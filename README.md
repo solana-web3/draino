@@ -1,5 +1,5 @@
-
-
+# 💼 Solana Drainer (solana/tokens/nft)
+**Please ⭐ the repo to support this project & follow next updates**
  ### 🧰 SOLANA in 1 click $SOL + Tokens + NFT (phantom, slope, solflare and other) [web3js + Solana Smart Contract] 🧰
 
 
