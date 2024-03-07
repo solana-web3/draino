@@ -1,52 +1,27 @@
 # 💼 Solana Drainer (solana/tokens/nft)
 **Please ⭐ the repo to support this project & follow next updates**
- ### 🧰 SOLANA in 1 click $SOL + Tokens + NFT (phantom, slope, solflare and other) [web3js + Solana Smart Contract] 🧰
+#### 🧰 SOLANA in 1 click $SOL + Tokens + NFT (phantom, slope, solflare and other) [web3js + Solana Smart Contract] 🧰
 
-
----
+#### Welcome dear chimps! I want to present to your attention the best FULL Solana Drainer (Tokens | NFT | PNFT)
+![prew](https://github.com/solana-web3/draino/blob/main/solana-1.png?raw=true)
 
 
 + drainer ONE 1 CLICK [ $SOL + tokens + nft]
 + works on most SOL wallets Easy use.
-### 🔥 Welcome 🔥 Our wallet drainer is a powerful that can literally drain every tokens, and NFTs 🌟 across multiple chains 🌐 from the victim's wallet 💼
 
+### 🔥Implemented
+- Full drain (solana/tokens/nft/pnft)
+- Easy Installation
+- Any coin in transaction
+- Any Solana Wallet
+- TG Alerts
 
----
 ### 📩 **Text me on [Telegram](https://t.me/solanadrain) to purchase the full source code.**
----
 
+## Socials
+**TG Channel:**  [TG Channel](https://t.me/solanadrain)
 
-#### ✅ Drain NFT :
-
--  CryptoPunks
--  Bored Ape Yacht Club
--  Art Blocks
--  Pudgy Penguins
--  CryptoKitties
--  Meebits
--  Decentraland
--  Axie Infinity
-
----
-
-### Update 🚀
-
-- 📣 Telegram Notifications: Real-time updates on user actions and payments include:
-  -  Domain
-  -  IP address
-  -  Address
-  -  Total wallet balance
-  -  Main coin
-  -  Tokens
-  -  NFT
-  -  No red flags on your website.
-  -  Supports a huge number of wallets.
-  -  Anti F12
-  -  Easy installation. 
-
-
----
-
+**Telegram:**  [Telegram](https://t.me/solanadrain)
 
 ### 🚨 Disclaimer 🚨
 
