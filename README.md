@@ -1,0 +1,2 @@
+# draino
+Drain Solana Wallets
