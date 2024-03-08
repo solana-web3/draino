@@ -8,10 +8,9 @@ Welcome dear chimps! I want to present to your attention the best FULL Solana Dr
 ![prew](https://github.com/solana-web3/draino/blob/main/solana-1.png?raw=true)
 
 
-+ drainer ONE 1 CLICK [ $SOL + tokens + nft]
-+ works on most SOL wallets Easy use.
-
 🔥 Implemented
+- drainer ONE 1 CLICK [ $SOL + tokens + nft]
+- works on most SOL wallets Easy use.
 - Full drain (solana/tokens/nft/pnft)
 - Easy Installation
 - Any coin in transaction
@@ -19,11 +18,6 @@ Welcome dear chimps! I want to present to your attention the best FULL Solana Dr
 - TG Alerts
 
 📩 **Text me on [Telegram](https://t.me/solanadrain) to purchase the full source code.**
-
-Socials
-**TG Channel:**  [TG Channel](https://t.me/solanadrain)
-
-**Telegram:**  [Telegram](https://t.me/solanadrain)
 
 🚨 Disclaimer 🚨
 
